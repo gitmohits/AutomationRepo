@@ -21,7 +21,7 @@ public class AppiumTest {
 		extent = new ExtentReports();
 		extent.attachReporter(reporter);
 		
-		extent.setSystemInfo("Tester","Mohit Singh");
+		extent.setSystemInfo("Tester changes","Mohit Singh");
 		
 		
 	}

@@ -7,6 +7,6 @@ public class Appium2Test {
 	
 	@Test
 	public void test2() {
-		System.out.println("test2");
+		System.out.println("test2 changes");
 	}
 }
