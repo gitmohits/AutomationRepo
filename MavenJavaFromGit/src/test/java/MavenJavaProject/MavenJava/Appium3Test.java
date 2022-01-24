@@ -9,6 +9,6 @@ public class Appium3Test {
 	public void test3() {
 		System.out.println("test3");
 		System.out.println("This is the third push of the Github");
-		System.out.println("This is from Develop branch");
+		System.out.println("This is from ");
 	}
 }
